@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "addr2line-pdb", "addr2line-pdb.vcxproj", "{4053A582-A7F7-4D0D-A889-8381BB37B402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Debug|x64.ActiveCfg = Debug|x64
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Debug|x64.Build.0 = Debug|x64
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Debug|x86.ActiveCfg = Debug|Win32
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Debug|x86.Build.0 = Debug|Win32
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Release|x64.ActiveCfg = Release|x64
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Release|x64.Build.0 = Release|x64
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Release|x86.ActiveCfg = Release|Win32
+		{4053A582-A7F7-4D0D-A889-8381BB37B402}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F21F21-C24D-4D3D-A6D7-5297504676D4}
+	EndGlobalSection
+EndGlobal
